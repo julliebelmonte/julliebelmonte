@@ -1,4 +1,4 @@
-### Olá, eu sou a Jullie Belmonte
+### Jullie Belmonte
 <div>
   <a href="https://github.com/julliebelmonte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julliebelmonte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,6 @@
   <p>✅Banco de dados</p>
   <p>✅Estatística </p>
   <p>✅Machine Learning </p>
-  <p>✅Google Cloud Platform </p>
   
   
   <!--
