@@ -1,7 +1,8 @@
 # Jullie Belmonte
  
 > Cientista de dados
-> Data Scientist
+
+
 ---
  
 Cientista de dados com 4+ anos de experiência, com ênfase em Machine Learning, LLMs e NLP, atuando no desenvolvimento de soluções aplicadas a contextos de impacto social, especialmente nas áreas de Educação, Saúde e Segurança Pública.
@@ -53,8 +54,9 @@ Atuo no desenvolvimento de soluções orientadas a dados, desde o pré-processam
 ## Projeto em destaque
 
 **Análise Longitudinal — Mulheres na Ciência de Dados**
-Investigação da evolução da presença feminina no setor com base nos dados do State of Data Brazil (2021–2024), usando ML explicável (XAI) para identificar desigualdades persistentes.
-`Python` `XGBoost` `XAI` `Plotly`
+
+- Investigação da evolução da presença feminina no setor com base nos dados do State of Data Brazil (2021–2024), usando ML explicável (XAI) para identificar desigualdades persistentes.
+
 → [github.com/julliebelmonte/stateofdata](https://github.com/julliebelmonte/stateofdata)
  
 ---
