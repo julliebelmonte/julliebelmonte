@@ -1,41 +1,61 @@
 # Jullie Belmonte
  
-> Cientista de dados · transformando dados em decisões com impacto real
- 
+> Cientista de dados
+> Data Scientist
 ---
  
-Cientista de dados com 4+ anos de experiência, especializada em **Machine Learning, LLMs e NLP** — com foco em projetos de alto impacto social nas áreas de Educação, Saúde e Segurança Pública.
+Cientista de dados com 4+ anos de experiência, com ênfase em Machine Learning, LLMs e NLP, atuando no desenvolvimento de soluções aplicadas a contextos de impacto social, especialmente nas áreas de Educação, Saúde e Segurança Pública.
  
-Minha trajetória partiu da Pedagogia, passou por bootcamps e hackathons, e chegou ao mestrado em **Ciência da Computação no CEFET/RJ** — onde pesquiso a interseção entre dados e educação. Construo soluções que fazem sentido: do dado bruto à decisão informada.
+Minha trajetória iniciou na área da Educação e fiz transição para Tecnologia, me desenvolvendo contínuamente com diversos cursos, mentorias, bootcamps e hackathons. Atualmente sou mestranda em **Ciência da Computação no CEFET/RJ**.
+
+Atuo no desenvolvimento de soluções orientadas a dados, desde o pré-processamento até a modelagem e interpretação, com foco na geração de insights que apoiem a tomada de decisão.
  
 ---
  
 ## Stack
  
-**Machine Learning**
-`Modelagem supervisionada e não supervisionada (Regressão, Random Forest, Gradient Boosting, Clustering)` 
-`Deep Learning e NLP com Transformers`
-`Feature Engineering e seleção de variáveis`
-`Tuning de hiperparâmetros e validação cruzada` 
-`Avaliação de modelos (F1-score, ROC-AUC, RMSE)`
-`Interpretabilidade e explicabilidade (SHAP, LIME)`
- 
-**LLMs & NLP**
-`LangChain` `HuggingFace` `RAG` `NER` `OCR`
- 
-**Dados & Cloud**
-`Python` `SQL` `BigQuery` `Google Cloud` `ETL` `API`
- 
-**BI & Visualização**
-`Power BI` `Looker` `Plotly`
+### 🤖 Machine Learning
+- Modelagem supervisionada e não supervisionada (Regressão, Random Forest, Gradient Boosting, Clustering)
+- Deep Learning (Redes Neurais, Transformers)
+- Feature Engineering e seleção de variáveis
+- Tuning de hiperparâmetros (Grid Search, Random Search)
+- Validação cruzada e avaliação de modelos (F1-score, ROC-AUC, RMSE)
+- Interpretabilidade e explicabilidade (SHAP, LIME)
+
+---
+
+### 🧠 LLMs & NLP
+- LangChain
+- Hugging Face
+- RAG (Retrieval-Augmented Generation)
+- NER (Reconhecimento de Entidades Nomeadas)
+- Transformers e modelos pré-treinados
+- OCR (integração com visão computacional)
+
+---
+
+### ☁️ Dados & Cloud
+- Python
+- SQL
+- ETL / ELT
+- Integração com APIs
+- Google Cloud Platform (GCP)
+- BigQuery
+
+---
+
+### 📊 BI & Visualização
+- Power BI
+- Looker
+- Plotly
  
 --- 
 ## Projeto em destaque
 
-** Análise Longitudinal — Mulheres na Ciência de Dados**
+**Análise Longitudinal — Mulheres na Ciência de Dados**
 Investigação da evolução da presença feminina no setor com base nos dados do State of Data Brazil (2021–2024), usando ML explicável (XAI) para identificar desigualdades persistentes.
 `Python` `XGBoost` `XAI` `Plotly`
-→ [github.com/julliebelmonte/wit2025](https://github.com/julliebelmonte/stateofdata)
+→ [github.com/julliebelmonte/stateofdata](https://github.com/julliebelmonte/stateofdata)
  
 ---
 
